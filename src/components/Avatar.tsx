@@ -13,7 +13,7 @@ const Avatar = ({widthManager}:AvatarProps) => {
       <div className=" rounded-3xl  shadow-2xl icon-box  transform hover:translate-y-1 hover:shadow-xl transition ease-in-out duration-300 bg-[#1a3d5e]">
         {" "}
        {
-        widthManager ? <> <Image src="/my-avatar.png" alt="avatar" width={50} height={50} /></>: <> <Image src="/my-avatar.png" alt="avatar" width={150} height={150} /></>
+        widthManager ? <> <img src="/profile.jpg" className="rounded-full" alt="avatar" width={50} height={50} /></>: <> <img src="/profile.jpg" className="rounded-2xl" alt="avatar" width={150} height={150} /></>
 
        }
       </div>

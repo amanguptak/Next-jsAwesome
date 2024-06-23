@@ -24,7 +24,7 @@ const Connect = ({ widthManager }: ConnectProps) => {
           <li key={index} className="contact-item flex items-center gap-4 group">
               
             <motion.div
-            className='icon-box ml-[-8px] text-[#ffcd67] shadow-2xl  bg-[#373737] p-3 rounded-xl'
+            className='icon-box ml-[-2px] text-[#ffcd67] shadow-2xl  bg-[#373737] p-3 rounded-xl'
             variants={iconVariants}
             initial="initial"
             whileHover="hover"

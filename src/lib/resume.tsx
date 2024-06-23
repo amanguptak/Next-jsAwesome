@@ -93,7 +93,7 @@ export const SkillsData  = [
   },
   {
     name: "Node Js",
-    img: "https://cdn.iconscout.com/icon/free/png-256/free-node-js-3550841-2970426.png"},
+    img: "/node.png"},
   {
     name: "Express js",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMljNHtufEhORorpm03zCLtzlnY2R_gvx4cZYwSh_auF0rSZvjFO5kALPmyDgj9axhleY&usqp=CAU",
@@ -124,12 +124,12 @@ export const SkillsData  = [
   },
   {
     name: "Bootstrap",
-    img: "https://cdn3d.iconscout.com/3d/free/thumb/free-bootstrap-framework-logo-6563486-5453031.png?f=webp",
+    img: "/bootstrap.webp",
   },
   {
 
     name: "aws",
-    img:"https://cdn3d.iconscout.com/3d/free/thumb/free-amazon-web-services-8074662-6507782.png?f=webp"
+    img:"/aws1.webp"
   },
   {
     name: "Gitlab",

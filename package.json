@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prod": "next export"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.6.0",
@@ -22,6 +23,7 @@
     "react-hook-form": "^7.52.0",
     "react-parallax-tilt": "^1.7.228",
     "react-type-animation": "^3.2.0",
+    "sharp": "^0.33.4",
     "sonner": "^1.5.0",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
